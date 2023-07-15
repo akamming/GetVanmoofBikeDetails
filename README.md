@@ -16,5 +16,5 @@ Instructions for For windows to install the prerequisites
 - Go to an empty dir on your computer
 - enter "git clone https://github.com/akamming/GetVanmoofBikeDetails"
 - enter "cd GetVanmoofBikeDetails"
-- enter "python3 vanmoof.py <YourVanMoofUSername> <YourVanMoofPassword>"
+- enter "python3 vanmoof.py \<YourVanMoofUSername\> \<YourVanMoofPassword\>"
 - and make sure you save the output for future use
